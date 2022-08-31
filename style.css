@@ -19,3 +19,31 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.catagoris h1{
+    color: #fff;
+}
+.catagoris img{
+    width: 100px;
+}
+.eat1,.eat2,.eat3 {
+    padding: 10px 30px;
+}
+.eat1{
+    background-color: rgb(199, 238, 24);
+    border-radius: 10px;
+    padding: ;
+    
+}
+.eat2{
+    background-color: brown;
+    border-radius: 10px;
+
+}
+.eat3{
+    background-color: darkgreen;
+    border-radius: 10px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
