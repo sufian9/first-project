@@ -45,5 +45,11 @@
 }
 .card{
     border: none;
-    box-shadow: 5px 5px 10px lightgray;
+    box-shadow: 8px 8px 20px lightgray;
+}
+#subscribe{
+    height: 300px;
+}
+.center{
+    text-align: center;
 }
